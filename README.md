@@ -3,7 +3,6 @@
 Celly Bot is a Discord bot developed in Python, designed to enhance your Discord server experience by adding custom functionality and automation. This project serves as a practical learning tool for honing my programming skills and gaining hands-on experience with long-term software development and maintenance.
 
 # Purpose of the Project
-
 The primary goal of Celly Bot is to:
 
 - Explore Python libraries such as discord.py to build interactive bots.
@@ -15,8 +14,11 @@ The primary goal of Celly Bot is to:
 - Prepare for contributing to or building larger-scale projects in the future.
 
 # Current Features
+- Welcome messages for members who have joined the server.
+- Leave messages for members who have left the server.
 
 # Planned Features
+- Connecting Riot Games API to pull ranked information for specific players.
 
 # Why This Project Matters
 Building Celly Bot represents a significant step in my journey as a developer. By working on this bot, I am:
